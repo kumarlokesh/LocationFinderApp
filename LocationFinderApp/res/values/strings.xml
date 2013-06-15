@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Finder</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="savData">Save the location</string>
+    <string name="place">Place:</string>
+    <string name="caption">Caption:</string>
+    <string name="latTV">Latitude:</string>
+    <string name="longTV">Longitude:</string>
+    <string name="findLoc">Find Location</string>
+    <string name="submit">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="home">Go to Home</string>
+    <string name="title_activity_options_page">OptionsPageActivity</string>
+    <string name="addPlace">Add another place&#8230;</string>
+    <string name="findSavedPlace">Find already saved place&#8230;</string>
+    <string name="title_activity_find_place">FindPlaceActivity</string>
+    <string name="search">Search</string>
+    <string name="findPlace">Find place</string>
+
+</resources>
